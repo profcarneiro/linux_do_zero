@@ -112,8 +112,6 @@ Existem **três formas principais** de começar a usar Linux.
 
 ### 4️⃣ Qual perfil de usuário você é?
 
-Ajude o aluno a se identificar:
-
 - 🧑‍🎓 **Estudante**  
   → Linux para aprender e praticar
 
@@ -129,8 +127,6 @@ Ajude o aluno a se identificar:
 ---
 
 ### 5️⃣ O que você NÃO precisa saber agora
-
-Quebre o medo do aluno:
 
 ❌ Programar  
 ❌ Usar terminal imediatamente  
