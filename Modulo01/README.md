@@ -66,7 +66,7 @@ Ao final do **Módulo 1**, você será capaz de:
 - Linux x Windows  
 - Software Livre  
 
-🔗 Link da material: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula01.md"
+🔗 Link do material: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula01.md"
 
 ---
 
@@ -76,7 +76,7 @@ Ao final do **Módulo 1**, você será capaz de:
 - Formas seguras de começar  
 - Perfis de usuários  
 
-🔗 Link da aula: **(inserir link aqui)**
+🔗 Link do material: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula02.md
 
 ---
 
@@ -86,7 +86,7 @@ Ao final do **Módulo 1**, você será capaz de:
 - Por que existem várias distribuições  
 - Exemplos populares  
 
-🔗 Link da aula: **(inserir link aqui)**
+🔗 Link do material: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula03.md
 
 ---
 
@@ -96,7 +96,7 @@ Ao final do **Módulo 1**, você será capaz de:
 - Formatos `.deb` e `.rpm`  
 - Famílias de distribuições  
 
-🔗 Link da aula: **(inserir link aqui)**
+🔗 Link do material: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula04.md
 
 ---
 
@@ -106,7 +106,7 @@ Ao final do **Módulo 1**, você será capaz de:
 - Famílias Linux  
 - Qual escolher como iniciante  
 
-🔗 Link da aula: **(inserir link aqui)**
+🔗 Link da aula: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula05.md
 
 ---
 
