@@ -66,7 +66,7 @@ Ao final do **Módulo 1**, você será capaz de:
 - Linux x Windows  
 - Software Livre  
 
-🔗 Link da aula: <link href = "https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula01.md">
+🔗 Link da material: https://github.com/profcarneiro/linux_do_zero/blob/main/Modulo01/aula01.md"
 
 ---
 
