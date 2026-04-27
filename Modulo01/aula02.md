@@ -109,7 +109,22 @@ Existem **três formas principais** de começar a usar Linux.
 ⚠️ Recomendado apenas após ganhar experiência.
 
 ---
+#### 🟣 4 . Live Boot (Teste sem instalar)
 
+- Execute o Linux diretamente a partir de um pendrive ou DVD, sem alterar o disco rígido
+- Ideal para experimentar distribuição, testar drivers e ver compatibilidade de hardware
+
+✅ Vantagens:
+
+- Não modifica o sistema atual
+- Risco zero para arquivos no disco
+- Rápido para testar sem instalar
+
+⚠️ Limitações:
+
+- Desempenho e persistência limitados — configurações e arquivos podem não ser salvos a menos que o pendrive tenha persistência configurada
+
+---
 ### 4️⃣ Qual perfil de usuário você é?
 
 - 🧑‍🎓 **Estudante**  
