@@ -67,13 +67,14 @@ Ela pode:
 ## 3️⃣ Exemplo Prático: Família Debian
 
 A família Debian é uma das mais conhecidas e utilizadas no mundo Linux.
+```text
 Debian
 ├── Ubuntu
 │    ├── Linux Mint
 │    ├── Kubuntu
 │    └── Xubuntu
 └── MX Linux
-
+```
 - **Debian**
   - Muito estável
   - Base sólida
@@ -97,10 +98,13 @@ Debian
 ### 4️⃣ Exemplo Prático: Família Red Hat
 
 Outra família muito importante é a baseada no Red Hat.
+```text
 Red Hat Enterprise Linux
 ├── Fedora
 ├── CentOS
 └── Rocky Linux
+```
+
 - **Red Hat Enterprise Linux (RHEL)**
   - Uso corporativo
   - Sistema pago (com suporte)
